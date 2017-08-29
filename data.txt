@@ -1,0 +1,2 @@
+Patient's height and weight to make sure they get the correct dose
+Other medication the patient is taking in the case of possible drug interactions
