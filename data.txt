@@ -3,3 +3,5 @@ Other medication the patient is taking in the case of possible drug interactions
 how often patient is refilling narcotics
 diagnositic codes so the insurance will pay for certain medications
 how frequently a medication is taken
+patient allergies
+make sure information on prescription is included and accurate 
