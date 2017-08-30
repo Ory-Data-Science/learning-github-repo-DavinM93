@@ -5,3 +5,4 @@ diagnositic codes so the insurance will pay for certain medications
 how frequently a medication is taken
 patient allergies
 make sure information on prescription is included and accurate 
+test
